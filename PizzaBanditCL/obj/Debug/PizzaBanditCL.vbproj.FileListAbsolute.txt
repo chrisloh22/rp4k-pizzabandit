@@ -1,0 +1,14 @@
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\bin\Debug\PizzaBanditCL.exe.config
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\bin\Debug\PizzaBanditCL.exe
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\bin\Debug\PizzaBanditCL.pdb
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\bin\Debug\PizzaBanditCL.xml
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\obj\Debug\PizzaBanditCL.Resources.resources
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\obj\Debug\PizzaBanditCL.vbproj.GenerateResource.Cache
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\obj\Debug\PizzaBanditCL.exe
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\obj\Debug\PizzaBanditCL.xml
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\obj\Debug\PizzaBanditCL.pdb
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\obj\Debug\PizzaBanditCL.Mainform.resources
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\obj\Debug\PizzaBanditCL.GameOverForm1.resources
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\obj\Debug\PizzaBanditCL.CaptureForm1.resources
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\obj\Debug\PizzaBanditCL.VictoryForm1.resources
+C:\Users\RealProgramming4Kids\Desktop\PizzaBanditCL\PizzaBanditCL\obj\Debug\PizzaBanditCL.TitleScreen1.resources
