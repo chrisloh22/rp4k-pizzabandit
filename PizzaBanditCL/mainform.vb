@@ -23,6 +23,7 @@
     Public seconds As Integer
     Dim timercounter As Integer
 
+    Dim GreetingsFromDylan As String = "Hello World"
 
 
 
